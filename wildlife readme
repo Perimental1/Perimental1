@@ -1,0 +1,24 @@
+# Wildlife App
+
+Это приложение предоставляет информацию о различных диких животных.
+
+## Установка
+
+1. Клонируйте репозиторий:
+    ```bash
+    git clone https://github.com/yourusername/wildlife_app.git
+    ```
+2. Перейдите в директорию проекта:
+    ```bash
+    cd wildlife_app
+    ```
+3. Установите зависимости:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Использование
+
+Запустите приложение:
+```bash
+python src/main.py
